@@ -1,5 +1,7 @@
 # DTCNN-ELM for Lung Nodule Diagnosis
 
+![MethodFig](images/MethodFig.jpg)
+
 <p align="left"> 
     <a href="https://www.python.org/">
         <img  src="https://img.shields.io/badge/python-3.7-blue"/></a> 
@@ -14,7 +16,6 @@
     <a href="https://doi.org/10.1016/j.knosys.2020.106230">
         <img src="https://img.shields.io/badge/DOI-10.1016/j.knosys.2020.106230-orange"></a>
 </p>
-
 This repository contains source code for KBS paper "Deep Transfer Convolutional Neural Network and Extreme Learning Machine for lung nodule diagnosis on CT images". 
 
 Codes are run on `Windows 10` with `32 GB RAM`, `Intel Core i7 9700K processor`, and `a Nvidia RTX 2080 GPU`. 
